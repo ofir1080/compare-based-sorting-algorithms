@@ -3,9 +3,9 @@ As proved, running time complexity of each algorithm:
 
 BubbleSort:
 
-Best case: O(n) - input array is sorted
-Avg case: O(n^2) - input array is unsorted
-Worst case: O(n^2) - input array is decreasing
+Best case: O(n) - input array is sorted.
+Avg case: O(n^2) - input array is unsorted.
+Worst case: O(n^2) - input array is decreasing.
 
 bubbleVsQuickOnSortedArray:
 ![sorted](https://github.com/ofir1080/compare-based-sorting-algorithms/blob/master/sorted.PNG)
