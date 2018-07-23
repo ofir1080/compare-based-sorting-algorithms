@@ -2,7 +2,7 @@
 As proved, running time complexity of each algorithm:
 
 BubbleSort:
-Best case: O(n) - input array is sorted
+Best case: O(n) - input array is sorted\n
 Avg case: O(n^2) - input array is unsorted
 Worst case: O(n^2) - input array is decreasing
 
