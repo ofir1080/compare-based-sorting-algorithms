@@ -7,7 +7,7 @@ Avg case: O(n^2) - input array is unsorted
 Worst case: O(n^2) - input array is decreasing
 
 bubbleVsQuickOnSortedArray:
-![sorted]("https://github.com/ofir1080/compare-based-sorting-algorithms/blob/master/sorted.PNG")
+![sorted](https://github.com/ofir1080/compare-based-sorting-algorithms/blob/master/sorted.PNG)
 
 QuickSort (either arbirtray pivot or median):
 Best case: O(nlogn) - input array is unsorted  
@@ -17,7 +17,7 @@ Worst case: O(n^2) - input array is sorted
 *note: by choosing a median the constants will be less then choosing a random pivot.
 
 arbitraryPivotVsMedianPivot:
-![quickquick]("https://github.com/ofir1080/compare-based-sorting-algorithms/blob/master/quickquick.PNG")
+![quickquick](https://github.com/ofir1080/compare-based-sorting-algorithms/blob/master/quickquick.PNG)
 
 MergeSort:
 Best, Avg, Worst case: O(nlogn) for any king of input
