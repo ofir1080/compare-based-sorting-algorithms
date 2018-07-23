@@ -10,7 +10,7 @@ Worst case: O(n^2) - input array is decreasing
 bubbleVsQuickOnSortedArray:
 ![sorted](https://github.com/ofir1080/compare-based-sorting-algorithms/blob/master/sorted.PNG)
 
-MergeSort:
+<u>MergeSort</u>:
 Best, Avg, Worst case: O(nlogn) for any king of input
 
 QuickSort (either arbirtray pivot or median):
