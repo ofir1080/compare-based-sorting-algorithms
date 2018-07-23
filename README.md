@@ -13,7 +13,8 @@ bubbleVsQuickOnSortedArray:
 MergeSort:
 Best, Avg, Worst case: O(nlogn) for any king of input
 
-QuickSort (either arbirtray pivot or median): <br/>
+QuickSort (either arbirtray pivot or median):
+
 Best case: O(nlogn) - input array is unsorted  <br/>
 Avg case: O(nlogn) - input array is unsorted<br/>
 Worst case: O(n^2) - input array is sorted
