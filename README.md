@@ -11,7 +11,7 @@ bubbleVsQuickOnSortedArray:
 ![sorted](https://github.com/ofir1080/compare-based-sorting-algorithms/blob/master/sorted.PNG)
 
 MergeSort: <br/>
-Best, Avg, Worst case: O(nlogn) for any king of input
+Best, Avg, Worst case: O(nlogn) for any kind of input
 
 QuickSort (either arbirtray pivot or median):
 
